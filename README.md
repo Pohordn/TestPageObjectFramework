@@ -1,2 +1,2 @@
 # TestPageObjectFramework
-Page Object model for simple task 
+Page Object model framework for test task
